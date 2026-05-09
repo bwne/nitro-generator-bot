@@ -5,7 +5,7 @@ https://discord.com/developers/applications
 
 ### print these to the console
 ```bash
-git clone https://github.com/krakgeldi24/nitro-generator-bot.git
+git clone https://github.com/bwne/nitro-generator-bot.git
 cd nitro-generator-bot
 ```
 ### find the folder from
